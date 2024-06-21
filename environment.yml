@@ -2,8 +2,8 @@ name: ttc-calculator
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
-  - streamlit=1.15.0
-  - matplotlib=3.6.0
-  - pyarrow
-  - snappy
+  - python=3.11
+  - pip
+  - matplotlib
+  - pip:
+    - streamlit
