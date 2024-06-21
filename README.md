@@ -19,20 +19,23 @@ This repository contains a Streamlit application for calculating and visualizing
     ```bash
     cd triangular-tent-card-calculator
     ```
-3. Install the required packages:
+3. Create a conda environment:
     ```bash
-    pip install -r requirements.txt
+    conda env create -f environment.yml
     ```
-4. Run the Streamlit application:
+4. Activate the environment:
+    ```bash
+    conda activate triangular-tent-card-calculator
+    ```
+5. Run the Streamlit application:
     ```bash
     streamlit run app.py
     ```
 
 ## Requirements
 
-- Python 3.11
-- Streamlit
-- Matplotlib
+- Anaconda or Miniconda
+- Conda
 
 ## Author
 
