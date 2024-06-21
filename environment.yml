@@ -1,6 +1,6 @@
-name: triangular-tent-card-calculator
+name: ttc-calculator
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.10
   - streamlit=1.15.0

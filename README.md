@@ -25,7 +25,7 @@ This repository contains a Streamlit application for calculating and visualizing
     ```
 4. Activate the environment:
     ```bash
-    conda activate triangular-tent-card-calculator
+    conda activate ttc-calculator
     ```
 5. Run the Streamlit application:
     ```bash
